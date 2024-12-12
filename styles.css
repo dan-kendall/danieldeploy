@@ -14,7 +14,7 @@ body {
     flex-direction: column; 
     background: 
         linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), 
-        url('./images/wood.JPG');
+        url('images/wood.JPG');
 }
 
 .domine-regular {
